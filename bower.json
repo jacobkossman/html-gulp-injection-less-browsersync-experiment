@@ -1,0 +1,9 @@
+{
+  "name": "Gulp Test",
+  "dependencies": {
+    "jquery": "1.12.*",
+    "bootstrap": "^3.3.6",
+    "FortAwesome/Font-Awesome": "*",
+    "animate.css": "*"
+  }
+}
